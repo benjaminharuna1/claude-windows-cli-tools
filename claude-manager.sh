@@ -20,7 +20,7 @@
 #   - Enable/Disable Autostart
 #   - Check Status
 #
-# Author: ChatGPT (fixed)
+# Author: Benjamin Haruna Bala and ChatGPT 
 # =========================================================
 
 # BUG FIX 1: Removed global `set -e` — it causes the script to exit unexpectedly
